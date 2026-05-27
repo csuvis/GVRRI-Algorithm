@@ -6,11 +6,15 @@ This repository contains the implementation of **GVRRI** (Graph Visual Receptive
 
 ## Repository Structure
 
-├── resistance.py # Main implementation of the GVRRI algorithm
-├── data/ # Example dataset (see format below)
-│ ├── graph_structure.json # Topology: nodes and edges
-│ └── node_layout.csv # 2D coordinates of each node after layout
-└── README.md
+── resistance.py # Main implementation of the GVRRI algorithm
+
+── data/ # Example dataset (see format below)
+
+── graph_structure.json # Topology: nodes and edges
+
+── node_layout.csv # 2D coordinates of each node after layout
+
+── README.md
 
 
 ## Input Data
